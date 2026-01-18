@@ -1,4 +1,3 @@
-
 char = input("enter a sinngle character: ")
 if type(char)is str and len (char) == 1:
     print("valid input")
